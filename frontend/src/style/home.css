@@ -1,0 +1,21 @@
+/* NAvbar */
+.text-center{
+    position: absolute;
+    text-align: center;
+    left: 28%;
+    top: 0%;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.update,.add{
+    position: relative;
+}
+.formdata{
+    position: absolute;
+    left: 25%;
+    border: none;
+    box-shadow: 2px 3px 5px 5px rgb(232, 232, 232);
+}
